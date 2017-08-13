@@ -171,12 +171,12 @@ footer{
 }
 
 .btn-primary {
-	box-shadow: 0 3px 0 0 #007299;
+	box-shadow: 0 3px 0 0 #033769;
 	background-image: linear-gradient(#04519b, #044687 60%, #033769);
     	color: #fff !important;
 }
 .btn-primary:active, .btn-primary.active {
-	background: #33a6cc;
+	background-image: linear-gradient(#044687, #04519b 60%, #033769);
 	box-shadow: none;
 	margin-bottom: -3px;
 	margin-top: 3px;
