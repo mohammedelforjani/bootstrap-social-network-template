@@ -172,6 +172,8 @@ footer{
 
 .btn-primary {
 	box-shadow: 0 3px 0 0 #007299;
+	background-image: linear-gradient(#04519b, #044687 60%, #033769);
+    	color: #fff !important;
 }
 .btn-primary:active, .btn-primary.active {
 	background: #33a6cc;
