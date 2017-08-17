@@ -134,7 +134,7 @@ header .logo{
 footer{
 	background: #f4f4f4;
 	height: 90px;
-	color: #04519b;
+	color: #1abc9c;
 	font-weight: bold;
 	text-align: center;
 	padding-top: 40px;
@@ -176,6 +176,6 @@ footer{
 	border:1px solid #0e7762;
     	color: #fff !important;
 }
-.btn-primary:hover{
+.btn-primary:hover , btn-primary:active{
 	background-color: #0b8970;
 }
