@@ -174,7 +174,7 @@ footer{
 
 .btn-primary {
 	background-color: #1abc9c;
-	border:1px solid #0e7762;
+	border:0px solid #0e7762;
     	color: #fff !important;
 }
 .btn-primary:hover , btn-primary:active{
