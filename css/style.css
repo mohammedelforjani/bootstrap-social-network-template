@@ -14,7 +14,7 @@ header .logo{
 }
 
 .panel-heading{
-    background-color: #1abc9c;
+    background-color: #1abc9c !important ;
     color: #fff !important;
 }
 a{
