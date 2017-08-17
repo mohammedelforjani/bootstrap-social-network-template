@@ -17,7 +17,9 @@ header .logo{
     background-color: #1abc9c;
     color: #fff !important;
 }
-
+a{
+color:#15a589;	
+}
 .bubble{
 	position: relative;
 	width: 580px;
@@ -134,7 +136,7 @@ header .logo{
 footer{
 	background: #f4f4f4;
 	height: 90px;
-	color: #1abc9c;
+	color: #15a589;
 	font-weight: bold;
 	text-align: center;
 	padding-top: 40px;
@@ -171,7 +173,6 @@ footer{
 }
 
 .btn-primary {
-	box-shadow: 0 3px 0 0 #0e6654;
 	background-color: #1abc9c;
 	border:1px solid #0e7762;
     	color: #fff !important;
