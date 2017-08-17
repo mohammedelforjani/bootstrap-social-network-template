@@ -171,7 +171,8 @@ footer{
 }
 
 .btn-primary {
-	box-shadow: 0 3px 0 0 #033769;
+	box-shadow: 0 3px 0 0 #0e6654;
 	background-color: #1abc9c;
+	border:1px solid #0e6654;
     	color: #fff !important;
 }
